@@ -1,0 +1,13 @@
+h1 {
+    color:black;
+    font-style: normal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:black;
+    font-size:medium;
+    background-color:whitesmoke;
+}
