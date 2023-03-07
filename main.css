@@ -1,13 +1,27 @@
 h1 {
-    color:black;
+    color:rgb(87, 87, 87);
     font-style: normal;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Times New Roman';
 }
 
-p{
+h2{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
     color:black;
-    font-size:medium;
     background-color:whitesmoke;
 }
+
+table, th, td {
+    text-shadow:2px 2px 5px red;
+    border: 2px solid;
+    width: 40%;
+    padding: 5px;
+    text-align: left;
+    position: static;
+}
+
+img {
+    border-radius: 20%;
+    max-width: 40%;
+    height: auto;
+  }
