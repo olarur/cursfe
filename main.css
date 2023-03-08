@@ -20,8 +20,7 @@ table, th, td {
     position: static;
     }
 
-img {
-    border-radius: 20%;
-    max-width: 40%;
-    height: auto;
-  }
+    body {
+        background-image: url("fuji.jpg");
+        background-repeat: no-repeat;
+      }
